@@ -30,5 +30,3 @@ class Quotes {
         dateAdded = json['dateAdded'],
         dateModified = json['dateModified'];
 }
-
-// {"_id":"_0CfFQ4la0aN","tags":["famous-quotes","technology"],"content":"If you can't explain it simply, you don't understand it well enough.","author":"Albert Einstein","authorSlug":"albert-einstein","length":68,"dateAdded":"2019-03-15","dateModified":"2019-03-15"}
